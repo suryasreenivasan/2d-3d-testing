@@ -19,7 +19,7 @@ At this stage, the project is **not a full game** — there are **no obstacles, 
 
 ## ❌ Not Yet Implemented
 - Obstacles or level challenges  
-- Enemies or AI  
+- Enemies
 - Puzzle logic  
 - Level progression  
 - UI / Menus  
@@ -34,4 +34,3 @@ At this stage, the project is **not a full game** — there are **no obstacles, 
 - **C#**
 - Unity Input System
 
-## 📂 Project Structure
